@@ -1,7 +1,7 @@
-let primeiroNome = prompt("Digite Seu nome.")
-let sobrenome = prompt("Digite seu sobrenome.")
-let curso = prompt("Qual Seu curso?")
-let idade = number - 2024 (prompt("Qual sua idade?"))
+let nome = "John"
+let sobrenome = "Wick"
+let curso = "Desenvolvimento de Sistemas
+let anoNascimento = 1989
 
-alert (`Óla ${nome} ${ sobrenome}`)
-(`Então vocé estuda ${curso} e tem ${idade}  Anos. Legal!`)
+console.log('Olá ' + nome + ' ' + sobrenome + ', então você estuda ' + curso + ' e tem ' + (2024 - anoNascimento) + ' anos. Legal!')
+
